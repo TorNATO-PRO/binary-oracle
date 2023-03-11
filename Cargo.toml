@@ -2,7 +2,7 @@
 name = "wisdomtooth"
 version = "0.1.0"
 authors = ["Nathan Waltz <waltznr@gmail.com>", "Andrew Fritz", "Jose Sainz", "Cai Haught"]
-description = "A graphical data extractor from malware executables"
+description = "A graphical feature extractor for executable files"
 repository = ""
 edition = "2021"
 
