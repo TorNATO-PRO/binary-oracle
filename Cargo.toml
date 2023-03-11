@@ -1,0 +1,12 @@
+[package]
+name = "wisdomtooth"
+version = "0.1.0"
+authors = ["Nathan Waltz <waltznr@gmail.com>", "Andrew Fritz", "Jose Sainz", "Cai Haught"]
+description = "A graphical data extractor from malware executables"
+repository = ""
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+reqwest = "^0.11.14"
