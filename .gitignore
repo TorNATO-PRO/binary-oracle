@@ -1,0 +1,15 @@
+# Whitelist .gitignore
+
+*
+!*/
+
+# Files to whitelist
+!.gitignore
+!README.md
+!Cargo.toml
+
+# Folders to whitelist
+!src/
+!src/**
+!.devcontainer/
+!.devcontainer/**
